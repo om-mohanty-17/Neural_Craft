@@ -3,19 +3,19 @@ complaint_id,primary_category,secondary_category,severity
 15754196,Debt collection,Written notification about debt,1
 10989146,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,2
 3617850,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
-5253879,Credit reporting or other personal consumer reports,Incorrect information on your report,4
+5253879,Credit reporting or other personal consumer reports,Improper use of your report,4
 4015942,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a company's investigation into an existing problem,1
-6357513,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,5
+6357513,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",5
 4623142,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
 15020346,Debt collection,Attempts to collect debt not owed,1
 12104354,Credit reporting or other personal consumer reports,Improper use of your report,1
 3092745,Checking or savings account,Incorrect information on your report,1
 2815677,Debt collection,Written notification about debt,1
-1643921,Debt collection,Incorrect information on credit report,1
-4194690,Debt collection,Incorrect information on credit report,3
+1643921,Debt collection,Attempts to collect debt not owed,1
+4194690,Debt collection,Attempts to collect debt not owed,3
 7754181,Credit reporting,Incorrect information on your report,1
-8219783,Credit reporting or other personal consumer reports,Incorrect information on your report,5
-2044162,Credit reporting,Problem with a company's investigation into an existing problem,1
+8219783,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",5
+2044162,Credit reporting,Managing an account,1
 3922326,Credit reporting or other personal consumer reports,Incorrect information on your report,1
 1582663,Credit reporting,Incorrect information on credit report,1
 1680446,Mortgage,"Loan modification,collection,foreclosure",1
@@ -24,7 +24,7 @@ complaint_id,primary_category,secondary_category,severity
 13636248,Credit reporting or other personal consumer reports,Improper use of your report,1
 9995415,Checking or savings account,Managing an account,3
 7475772,Mortgage,Trouble during payment process,1
-16135781,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
+16135781,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 7909839,Mortgage,Trouble during payment process,1
 10346668,Credit reporting or other personal consumer reports,Problem with a credit reporting company's investigation into an existing problem,5
 17127372,Debt collection,Written notification about debt,1
@@ -42,34 +42,34 @@ complaint_id,primary_category,secondary_category,severity
 4962936,Checking or savings account,Managing an account,5
 10411050,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 2076136,Mortgage,"Loan modification,collection,foreclosure",1
-3754956,Credit reporting,Incorrect information on your report,1
+3754956,Credit reporting,Incorrect information on credit report,1
 11257200,Credit reporting or other personal consumer reports,Incorrect information on your report,1
 13754238,Credit reporting or other personal consumer reports,Improper use of your report,5
 16752676,Mortgage,Trouble during payment process,2
 8487300,Debt collection,Incorrect information on credit report,1
 2060913,Credit reporting,Incorrect information on credit report,1
-7690804,Credit reporting or other personal consumer reports,Incorrect information on your report,1
+7690804,Credit reporting or other personal consumer reports,Incorrect information on credit report,1
 3969495,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 3006848,Debt collection,Attempts to collect debt not owed,1
 5325218,Debt collection,Attempts to collect debt not owed,1
 1988809,Mortgage,"Loan modification,collection,foreclosure",1
 14656146,Credit reporting or other personal consumer reports,Managing an account,5
-4051925,Debt collection,Trouble during payment process,1
+4051925,Debt collection,Written notification about debt,1
 4540739,Credit reporting or other personal consumer reports,Incorrect information on your report,1
 8251011,Checking or savings account,Managing an account,1
-8050007,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
+8050007,Credit reporting or other personal consumer reports,Incorrect information on your report,1
 8910609,Debt collection,Written notification about debt,1
 5812032,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 8601162,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 7778298,Mortgage,Problem with a credit reporting company's investigation into an existing problem,1
 4451956,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
-7924636,Checking or savings account,"Loan modification,collection,foreclosure",1
+7924636,Checking or savings account,Managing an account,1
 6747251,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,5
 7391880,Credit reporting or other personal consumer reports,Improper use of your report,1
 2043486,Credit reporting,"Loan modification,collection,foreclosure",1
 16391572,Credit reporting or other personal consumer reports,Problem with a credit reporting company's investigation into an existing problem,1
 11151611,Mortgage,Trouble during payment process,1
-13277237,Credit reporting or other personal consumer reports,Managing an account,1
+13277237,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 9032895,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 13891451,Mortgage,Trouble during payment process,5
 4322217,Mortgage,Trouble during payment process,1
@@ -77,20 +77,20 @@ complaint_id,primary_category,secondary_category,severity
 11663548,Checking or savings account,Managing an account,1
 9497992,Credit card,Managing an account,1
 1332928,Mortgage,"Loan modification,collection,foreclosure",1
-2123263,Credit reporting,"Loan modification,collection,foreclosure",1
+2123263,Credit reporting,Incorrect information on your report,1
 6547753,Checking or savings account,Managing an account,5
 11560043,Credit reporting,Incorrect information on credit report,5
-8271808,Credit reporting or other personal consumer reports,Managing an account,5
+8271808,Credit reporting or other personal consumer reports,Incorrect information on your report,5
 16740840,Debt collection,Written notification about debt,1
 3242326,Debt collection,"Loan modification,collection,foreclosure",5
 6426774,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,5
-7599561,Credit reporting or other personal consumer reports,Incorrect information on your report,5
+7599561,Credit reporting or other personal consumer reports,Incorrect information on credit report,5
 6932083,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,5
 6725664,Debt collection,Problem with a credit reporting company's investigation into an existing problem,3
 13196047,Debt collection,Written notification about debt,1
 13631471,Credit reporting or other personal consumer reports,Improper use of your report,4
 7362129,Checking or savings account,Managing an account,5
-2290556,Mortgage,"Loan modification,collection,foreclosure",1
+2290556,Mortgage,Managing an account,1
 7053879,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,5
 15114206,Checking or savings account,Managing an account,4
 6417852,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",1
@@ -101,7 +101,7 @@ complaint_id,primary_category,secondary_category,severity
 1853179,Credit reporting,Incorrect information on credit report,1
 7372791,Checking or savings account,Problem with a company's investigation into an existing problem,1
 8062107,Checking or savings account,Managing an account,1
-14469404,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,1
+14469404,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on credit report,1
 2332533,Mortgage,"Loan modification,collection,foreclosure",1
 8153535,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 3638657,Credit reporting or other personal consumer reports,Attempts to collect debt not owed,5
@@ -110,15 +110,15 @@ complaint_id,primary_category,secondary_category,severity
 1904459,Mortgage,"Loan modification,collection,foreclosure",5
 7404323,Checking or savings account,Managing an account,1
 5930412,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
-1942085,Mortgage,Problem with a company's investigation into an existing problem,1
+1942085,Mortgage,"Loan modification,collection,foreclosure",1
 12464529,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 1866104,Mortgage,"Loan modification,collection,foreclosure",1
 13043810,Checking or savings account,Managing an account,1
-10372059,Checking or savings account,Problem with a company's investigation into an existing problem,1
+10372059,Checking or savings account,Trouble during payment process,1
 1317325,Mortgage,"Loan modification,collection,foreclosure",3
 2671887,Debt collection,Written notification about debt,1
-10306291,Debt collection,Managing an account,1
-7884256,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
+10306291,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
+7884256,Credit reporting or other personal consumer reports,Incorrect information on your report,1
 9255884,Checking or savings account,Managing an account,5
 11011999,Mortgage,Trouble during payment process,3
 10077492,Mortgage,Written notification about debt,1
@@ -132,25 +132,25 @@ complaint_id,primary_category,secondary_category,severity
 13184190,Credit reporting or other personal consumer reports,Incorrect information on your report,1
 8574105,Credit reporting or other personal consumer reports,Improper use of your report,1
 1523229,Mortgage,Managing an account,1
-8111807,Debt collection,Managing an account,1
+8111807,Debt collection,Written notification about debt,1
 15614980,Debt collection,Written notification about debt,3
 8599257,Checking or savings account,Managing an account,1
-3769665,Debt collection,Managing an account,1
+3769665,Debt collection,Written notification about debt,1
 12242658,Debt collection,Managing an account,1
 6993432,Debt collection,Written notification about debt,1
 2801183,Debt collection,Attempts to collect debt not owed,1
 5874183,Mortgage,Trouble during payment process,1
-1985605,"Credit reporting, credit repair services, or other personal consumer reports",Managing an account,1
+1985605,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a company's investigation into an existing problem,1
 3035845,Credit reporting or other personal consumer reports,Improper use of your report,1
 6707867,Checking or savings account,Managing an account,1
-4910939,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
+4910939,Debt collection,Problem with a company's investigation into an existing problem,1
 2911152,Credit reporting or other personal consumer reports,Improper use of your report,5
 3420324,Debt collection,Incorrect information on credit report,1
-3892960,Credit reporting,Problem with a credit reporting company's investigation into an existing problem,1
-17030632,Credit reporting or other personal consumer reports,Improper use of your report,1
+3892960,Credit reporting,Problem with a company's investigation into an existing problem,1
+17030632,Credit reporting or other personal consumer reports,Incorrect information on credit report,1
 2144678,Credit reporting or other personal consumer reports,Incorrect information on credit report,1
-8103913,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,3
-8525637,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
+8103913,Credit reporting or other personal consumer reports,Managing an account,3
+8525637,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on credit report,1
 9134664,Checking or savings account,Managing an account,1
 3063679,Checking or savings account,Managing an account,1
 8519242,Debt collection,Written notification about debt,1
@@ -161,15 +161,15 @@ complaint_id,primary_category,secondary_category,severity
 1893398,Credit reporting,Incorrect information on credit report,3
 14444724,Debt collection,Attempts to collect debt not owed,5
 14970114,Debt collection,Attempts to collect debt not owed,5
-2771359,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
-5522651,Debt collection,Attempts to collect debt not owed,5
+2771359,Debt collection,Written notification about debt,1
+5522651,Debt collection,Incorrect information on credit report,5
 9968207,Checking or savings account,Managing an account,1
 10121588,Credit reporting or other personal consumer reports,Improper use of your report,4
 14081523,Credit reporting or other personal consumer reports,Incorrect information on your report,5
 7526973,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,5
 3306526,Credit reporting or other personal consumer reports,Incorrect information on credit report,5
 13789522,Debt collection,Written notification about debt,1
-5719946,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",5
+5719946,Credit reporting or other personal consumer reports,Incorrect information on your report,5
 7171524,Mortgage,Trouble during payment process,1
 6762752,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 2027363,Credit reporting,Incorrect information on credit report,1
@@ -180,53 +180,53 @@ complaint_id,primary_category,secondary_category,severity
 4789468,Debt collection,Attempts to collect debt not owed,5
 2387940,Mortgage,Trouble during payment process,5
 4048782,Mortgage,Trouble during payment process,1
-7466634,Credit reporting or other personal consumer reports,Incorrect information on credit report,5
+7466634,Credit reporting or other personal consumer reports,Improper use of your report,5
 1912879,Credit reporting,Incorrect information on credit report,1
 2113579,Mortgage,"Loan modification,collection,foreclosure",3
 6508038,Credit reporting or other personal consumer reports,Incorrect information on your report,5
 7786816,Mortgage,Trouble during payment process,1
-3230793,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",5
+3230793,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,5
 6272208,Checking or savings account,Managing an account,1
-2376340,Credit reporting,Problem with a company's investigation into an existing problem,1
+2376340,Credit reporting,"Loan modification,collection,foreclosure",1
 13080686,Checking or savings account,Managing an account,3
 2186773,Credit reporting,Incorrect information on credit report,3
-6885135,Debt collection,Incorrect information on your report,5
+6885135,Debt collection,Incorrect information on credit report,5
 6513961,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,5
 2413201,Mortgage,"Loan modification,collection,foreclosure",1
 1474638,Debt collection,Attempts to collect debt not owed,1
 9630621,Checking or savings account,Managing an account,1
 3326224,Debt collection,Attempts to collect debt not owed,5
-5591151,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on credit report,1
+5591151,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,1
 11386786,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,1
 10330891,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",5
 1664564,Credit reporting,Incorrect information on credit report,1
 10966787,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 15187975,Credit reporting or other personal consumer reports,Incorrect information on your report,1
 15023549,Credit card or prepaid card,Problem with a company's investigation into an existing problem,1
-8159817,Credit reporting or other personal consumer reports,Managing an account,2
-11132268,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
-14512224,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",5
+8159817,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",2
+11132268,Debt collection,Trouble during payment process,1
+14512224,Credit reporting or other personal consumer reports,Managing an account,5
 12931040,Checking or savings account,Managing an account,1
 9654010,Debt collection,Managing an account,1
-12681027,Debt collection,Attempts to collect debt not owed,1
+12681027,Debt collection,"Loan modification,collection,foreclosure",1
 5105846,Mortgage,"Loan modification,collection,foreclosure",1
 8329413,Mortgage,Trouble during payment process,3
 15404710,Credit reporting,Incorrect information on credit report,1
-14478325,Debt collection,Trouble during payment process,1
+14478325,Debt collection,Written notification about debt,1
 11197319,Checking or savings account,Managing an account,1
-3287302,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,1
+3287302,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",1
 11521001,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
-6509196,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on credit report,4
-5766790,Credit reporting or other personal consumer reports,Incorrect information on your report,1
+6509196,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,4
+5766790,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
 2414706,Credit reporting or other personal consumer reports,Incorrect information on credit report,1
 2273148,Mortgage,"Loan modification,collection,foreclosure",1
 2573209,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
 2910138,Checking or savings account,Managing an account,1
-7202814,Checking or savings account,Incorrect information on your report,1
+7202814,Checking or savings account,Problem with a company's investigation into an existing problem,1
 6219558,Mortgage,"Loan modification,collection,foreclosure",4
-5841678,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",5
+5841678,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,5
 8576752,Credit reporting or other personal consumer reports,Improper use of your report,1
-11232151,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
+11232151,Debt collection,Written notification about debt,1
 12402864,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 9654151,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 8926275,Checking or savings account,Managing an account,1
@@ -242,13 +242,13 @@ complaint_id,primary_category,secondary_category,severity
 4742398,Checking or savings account,Managing an account,1
 5832261,Debt collection,Problem with a company's investigation into an existing problem,1
 15333901,Debt collection,Attempts to collect debt not owed,1
-3829919,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
+3829919,"Credit reporting, credit repair services, or other personal consumer reports",Managing an account,1
 3618933,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,5
 2635685,Mortgage,Trouble during payment process,1
-12642839,Credit reporting or other personal consumer reports,Managing an account,1
+12642839,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 6974847,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,1
-3803228,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
-9589552,Credit reporting or other personal consumer reports,Incorrect information on your report,1
+3803228,Credit reporting or other personal consumer reports,Managing an account,1
+9589552,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
 16852910,Debt collection,Written notification about debt,1
 11654010,Checking or savings account,Managing an account,1
 9363116,Mortgage,Trouble during payment process,1
@@ -259,18 +259,18 @@ complaint_id,primary_category,secondary_category,severity
 13532499,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on credit report,5
 17255786,Debt collection,Written notification about debt,1
 7638421,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
-10243206,Debt collection,"Loan modification,collection,foreclosure",5
+10243206,Debt collection,Managing an account,5
 7804537,Credit reporting,Incorrect information on credit report,5
 11654068,Checking or savings account,Managing an account,1
-3168992,Mortgage,Trouble during payment process,1
+3168992,Mortgage,Problem with a credit reporting company's investigation into an existing problem,1
 1976970,Mortgage,Problem with a company's investigation into an existing problem,5
 4809071,Mortgage,Trouble during payment process,1
 2075511,Credit reporting,Incorrect information on credit report,1
 13080332,Credit reporting or other personal consumer reports,Improper use of your report,1
-6437293,Mortgage,Problem with a company's investigation into an existing problem,5
+6437293,Mortgage,Managing an account,5
 5107179,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
-3775627,Credit reporting,Incorrect information on your report,1
-1812541,Credit reporting,Incorrect information on your report,5
+3775627,Credit reporting,Incorrect information on credit report,1
+1812541,Credit reporting,"Loan modification,collection,foreclosure",5
 15093460,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,2
 14747446,Credit reporting or other personal consumer reports,Incorrect information on your report,5
 9258790,Checking or savings account,Managing an account,5
@@ -283,13 +283,13 @@ complaint_id,primary_category,secondary_category,severity
 2362618,Mortgage,"Loan modification,collection,foreclosure",3
 1446338,Mortgage,"Loan modification,collection,foreclosure",1
 16167083,Debt collection,Written notification about debt,4
-2352511,Checking or savings account,Managing an account,1
-2302867,Credit reporting or other personal consumer reports,Managing an account,1
+2352511,Checking or savings account,Problem with a company's investigation into an existing problem,1
+2302867,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 2426169,Mortgage,"Loan modification,collection,foreclosure",1
 11648468,Checking or savings account,Managing an account,1
 3331661,Mortgage,Trouble during payment process,1
-2385449,Credit reporting,Incorrect information on credit report,1
-2858435,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
+2385449,Credit reporting,Attempts to collect debt not owed,1
+2858435,Debt collection,Written notification about debt,1
 3697504,Debt collection,Attempts to collect debt not owed,5
 2941434,Checking or savings account,Managing an account,1
 9072071,Debt collection,Attempts to collect debt not owed,1
@@ -300,23 +300,23 @@ complaint_id,primary_category,secondary_category,severity
 1739360,Credit reporting,Incorrect information on credit report,1
 6376624,Debt collection,Written notification about debt,1
 11558598,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
-3175727,Credit reporting,Incorrect information on your report,5
-4176174,"Credit reporting, credit repair services, or other personal consumer reports",Managing an account,5
+3175727,Credit reporting,Incorrect information on credit report,5
+4176174,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",5
 4256661,Credit reporting,Incorrect information on your report,1
 4328827,Mortgage,Trouble during payment process,1
 13012809,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 5854031,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 2223290,Mortgage,Problem with a company's investigation into an existing problem,5
 3678968,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
-5259288,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",4
-11771767,Credit reporting or other personal consumer reports,Written notification about debt,3
+5259288,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,4
+11771767,Credit reporting or other personal consumer reports,Incorrect information on your report,3
 9647740,Mortgage,Problem with a company's investigation into an existing problem,1
 1327049,Mortgage,"Loan modification,collection,foreclosure",1
-12304550,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
+12304550,Credit reporting or other personal consumer reports,Incorrect information on your report,1
 7259150,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 14586042,Credit reporting or other personal consumer reports,Improper use of your report,4
 1650774,Mortgage,"Loan modification,collection,foreclosure",1
-1379738,Mortgage,Managing an account,1
+1379738,Mortgage,"Loan modification,collection,foreclosure",1
 1400777,Mortgage,"Loan modification,collection,foreclosure",1
 10295397,Credit reporting or other personal consumer reports,Incorrect information on your report,5
 15870417,Debt collection,Written notification about debt,1
@@ -327,13 +327,13 @@ complaint_id,primary_category,secondary_category,severity
 5636605,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,1
 2681961,Checking or savings account,Managing an account,1
 2466493,Mortgage,Trouble during payment process,5
-3472409,Debt collection,"Loan modification,collection,foreclosure",1
+3472409,Debt collection,Incorrect information on credit report,1
 9242162,Debt collection,Written notification about debt,1
 7801725,Debt collection,Written notification about debt,1
 8935504,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 5855434,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 7418727,Credit reporting or other personal consumer reports,Incorrect information on credit report,5
-10580449,Debt collection,Problem with a company's investigation into an existing problem,1
+10580449,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
 15890012,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
 9807173,Credit reporting or other personal consumer reports,Improper use of your report,1
 3763901,Debt collection,Attempts to collect debt not owed,5
@@ -343,89 +343,89 @@ complaint_id,primary_category,secondary_category,severity
 5623261,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,1
 2164163,Mortgage,"Loan modification,collection,foreclosure",1
 6603428,Mortgage,"Loan modification,collection,foreclosure",1
-2306117,Mortgage,Managing an account,5
+2306117,Mortgage,Problem with a company's investigation into an existing problem,5
 2127185,Credit reporting,Incorrect information on credit report,5
 5785214,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
-6505069,Credit reporting,Attempts to collect debt not owed,1
-2721962,Mortgage,Problem with a company's investigation into an existing problem,1
-12283742,Debt collection,Incorrect information on credit report,1
+6505069,Credit reporting,Incorrect information on credit report,1
+2721962,Mortgage,Problem with a credit reporting company's investigation into an existing problem,1
+12283742,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
 10194177,Debt collection,Written notification about debt,1
 1522260,Credit reporting,Incorrect information on credit report,1
-16899401,Credit card,Problem with a company's investigation into an existing problem,1
+16899401,Credit card,Managing an account,1
 5491315,"Credit reporting, credit repair services, or other personal consumer reports",Managing an account,1
 1925882,Credit reporting,Incorrect information on credit report,1
-12233884,Credit reporting or other personal consumer reports,Managing an account,1
-3045115,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",1
-8090166,Debt collection,Managing an account,1
+12233884,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
+3045115,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on credit report,1
+8090166,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
 7206058,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 3615848,Mortgage,Trouble during payment process,1
-3385208,Mortgage,Incorrect information on credit report,1
+3385208,Mortgage,Incorrect information on your report,1
 7322021,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,5
 3353038,Mortgage,Problem with a credit reporting company's investigation into an existing problem,1
 16022862,Credit reporting or other personal consumer reports,Improper use of your report,1
-2436392,Credit reporting or other personal consumer reports,Improper use of your report,5
+2436392,Credit reporting or other personal consumer reports,Incorrect information on credit report,5
 2097258,Credit reporting,Incorrect information on credit report,5
 9013057,Credit reporting,"Loan modification,collection,foreclosure",5
-1529801,Debt collection,Incorrect information on your report,1
+1529801,Debt collection,Managing an account,1
 10506904,Credit reporting or other personal consumer reports,Improper use of your report,1
 2446824,Mortgage,"Loan modification,collection,foreclosure",5
 12231274,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,5
-3029153,Debt collection,Managing an account,1
+3029153,Debt collection,"Loan modification,collection,foreclosure",1
 7951035,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 15126746,Checking or savings account,Managing an account,5
 8583082,Debt collection,Written notification about debt,1
-8762013,Credit reporting,"Loan modification,collection,foreclosure",1
-15277722,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
-7527592,Debt collection,Managing an account,1
-3653319,Debt collection,"Loan modification,collection,foreclosure",2
+8762013,Credit reporting,Managing an account,1
+15277722,Credit reporting or other personal consumer reports,Managing an account,1
+7527592,Debt collection,Written notification about debt,1
+3653319,Debt collection,Incorrect information on credit report,2
 15538799,Credit reporting or other personal consumer reports,Incorrect information on credit report,5
 5778953,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,5
 9749017,Debt collection,Written notification about debt,1
 13999079,Credit reporting or other personal consumer reports,Improper use of your report,1
 8505755,Debt collection,Written notification about debt,1
-13131466,Credit reporting,Incorrect information on your report,5
-2277943,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a company's investigation into an existing problem,1
+13131466,Credit reporting,"Loan modification,collection,foreclosure",5
+2277943,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",1
 3119939,Debt collection,Problem with a company's investigation into an existing problem,3
 15942490,Mortgage,Trouble during payment process,1
 12246933,Checking or savings account,Managing an account,5
 6796784,Credit reporting or other personal consumer reports,Improper use of your report,1
-10725352,Credit reporting or other personal consumer reports,Incorrect information on your report,4
+10725352,Credit reporting or other personal consumer reports,Managing an account,4
 6471516,Checking or savings account,Managing an account,1
 1947927,Credit reporting,Incorrect information on credit report,1
 15114143,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,4
 2776975,Debt collection,Attempts to collect debt not owed,5
 9524498,Credit reporting or other personal consumer reports,Incorrect information on your report,5
-8776250,Debt collection,Improper use of your report,1
+8776250,Debt collection,Managing an account,1
 3623598,Debt collection,Improper use of your report,1
 12095158,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on your report,1
-1527227,Mortgage,Managing an account,1
+1527227,Mortgage,"Loan modification,collection,foreclosure",1
 7201904,Debt collection,Incorrect information on credit report,1
 6174576,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a company's investigation into an existing problem,1
 3210761,Checking or savings account,Managing an account,5
 7501689,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
-5807089,Credit card,Incorrect information on credit report,1
-11609245,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,1
-6021613,Debt collection,Incorrect information on credit report,1
-9538081,Debt collection,Incorrect information on your report,1
-11221794,Debt collection,Incorrect information on credit report,5
+5807089,Credit card,Incorrect information on your report,1
+11609245,Credit reporting or other personal consumer reports,Managing an account,1
+6021613,Debt collection,Attempts to collect debt not owed,1
+9538081,Debt collection,Incorrect information on credit report,1
+11221794,Debt collection,Attempts to collect debt not owed,5
 6348680,Checking or savings account,Managing an account,2
-2368100,"Credit reporting, credit repair services, or other personal consumer reports",Written notification about debt,1
+2368100,"Credit reporting, credit repair services, or other personal consumer reports",Trouble during payment process,1
 11870929,"Credit reporting, credit repair services, or other personal consumer reports",Improper use of your report,1
 1416988,Mortgage,"Loan modification,collection,foreclosure",1
 1998492,Credit reporting,Incorrect information on credit report,1
 11566706,Mortgage,Trouble during payment process,1
-4618375,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",1
+4618375,"Credit reporting, credit repair services, or other personal consumer reports",Managing an account,1
 8325030,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a company's investigation into an existing problem,1
 1854389,Mortgage,Problem with a credit reporting company's investigation into an existing problem,1
 1356700,Mortgage,"Loan modification,collection,foreclosure",1
 2189411,Mortgage,"Loan modification,collection,foreclosure",1
-4823457,Debt collection,Attempts to collect debt not owed,1
+4823457,Debt collection,Managing an account,1
 4025407,Debt collection,Attempts to collect debt not owed,1
 8188444,Credit reporting or other personal consumer reports,Problem with a credit reporting company's investigation into an existing problem,5
 2157366,Credit reporting,Incorrect information on credit report,1
 1556454,Mortgage,"Loan modification,collection,foreclosure",1
-14222340,Debt collection,Trouble during payment process,1
-4306457,Checking or savings account,Problem with a company's investigation into an existing problem,5
+14222340,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
+4306457,Checking or savings account,Managing an account,5
 14555586,Debt collection,Written notification about debt,1
 16661446,Debt collection,Written notification about debt,1
 14920178,Debt collection,Problem with a credit reporting company's investigation into an existing problem,1
@@ -433,7 +433,7 @@ complaint_id,primary_category,secondary_category,severity
 11559514,Checking or savings account,Managing an account,2
 3701748,Debt collection,Incorrect information on credit report,1
 13493935,Credit reporting or other personal consumer reports,Incorrect information on your report,5
-8074678,Debt collection,Attempts to collect debt not owed,5
+8074678,Debt collection,Incorrect information on credit report,5
 7437543,"Credit reporting, credit repair services, or other personal consumer reports",Problem with a credit reporting company's investigation into an existing problem,1
 16244130,Checking or savings account,Managing an account,5
 2672408,Credit reporting,Incorrect information on credit report,1
@@ -451,15 +451,15 @@ complaint_id,primary_category,secondary_category,severity
 10192678,Debt collection,Written notification about debt,4
 12350442,Debt collection,Managing an account,1
 5836161,Mortgage,Trouble during payment process,1
-12730451,Debt collection,Attempts to collect debt not owed,1
+12730451,Debt collection,"Loan modification,collection,foreclosure",1
 10736389,Debt collection,Written notification about debt,1
 1600523,Mortgage,"Loan modification,collection,foreclosure",1
-16775170,Credit reporting or other personal consumer reports,Incorrect information on your report,1
+16775170,Credit reporting or other personal consumer reports,Incorrect information on credit report,1
 6870306,Checking or savings account,Managing an account,5
 4422094,Checking or savings account,Trouble during payment process,1
 7585335,Checking or savings account,Managing an account,1
 2693353,Checking or savings account,Problem with a credit reporting company's investigation into an existing problem,1
-13977167,Debt collection,Incorrect information on credit report,1
+13977167,Debt collection,Attempts to collect debt not owed,1
 7820283,Debt collection,Incorrect information on your report,5
 1930308,Credit reporting,Incorrect information on credit report,1
 3508451,"Credit reporting, credit repair services, or other personal consumer reports",Attempts to collect debt not owed,1
@@ -470,12 +470,12 @@ complaint_id,primary_category,secondary_category,severity
 8375788,Credit reporting or other personal consumer reports,Improper use of your report,1
 2715195,Credit reporting,Trouble during payment process,1
 2828859,Checking or savings account,Managing an account,1
-11202601,Credit reporting or other personal consumer reports,Incorrect information on your report,1
+11202601,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
 16971149,Debt collection,Attempts to collect debt not owed,1
 9080401,Debt collection,Managing an account,1
 8832046,Debt collection,Written notification about debt,1
 11954591,Debt collection,Written notification about debt,1
-6342158,Credit reporting or other personal consumer reports,"Loan modification,collection,foreclosure",1
+6342158,Credit reporting or other personal consumer reports,Managing an account,1
 3559561,Credit reporting,Incorrect information on credit report,1
 7420881,Credit reporting or other personal consumer reports,Incorrect information on your report,5
 1902413,Mortgage,"Loan modification,collection,foreclosure",1
@@ -492,9 +492,9 @@ complaint_id,primary_category,secondary_category,severity
 1935541,Mortgage,"Loan modification,collection,foreclosure",2
 15321494,Credit reporting or other personal consumer reports,Improper use of your report,1
 6766512,Checking or savings account,Managing an account,1
-7237773,Credit card,Attempts to collect debt not owed,5
-7477319,Credit reporting,Incorrect information on your report,1
+7237773,Credit card,Incorrect information on your report,5
+7477319,Credit reporting,Incorrect information on credit report,1
 6051475,Mortgage,Managing an account,1
 4667844,Credit reporting or other personal consumer reports,Incorrect information on credit report,5
 2092808,Mortgage,"Loan modification,collection,foreclosure",1
-1695406,"Credit reporting, credit repair services, or other personal consumer reports","Loan modification,collection,foreclosure",5
+1695406,"Credit reporting, credit repair services, or other personal consumer reports",Incorrect information on credit report,5
